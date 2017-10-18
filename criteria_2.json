@@ -1,0 +1,6 @@
+{
+  "cut_off_date": "2017-02-02",
+  "number_of_words_interval": [100, 500],
+  "should_contain_words": ["python", "language", "release", "zazmic"],
+  "number_of_paragraphs_interval": [1, 10]
+}
